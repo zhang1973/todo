@@ -2,3 +2,4 @@ Sleep
 go
 come
 eat
+study

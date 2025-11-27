@@ -25,4 +25,3 @@ st.text_input("", placeholder="Add new todo...",
               on_change=add_todo, key="new_todo")
 
 
-
